@@ -35,10 +35,10 @@ This project is a simple clone of an Instagram post, created using HTML and CSS.
 To set up this project locally, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your-username/instagram-post-clone.git
+``` git clone https://github.com/your-username/instagram-post-clone.git ```
 
 Navigate to the project directory:
-cd instagram-post-clone
+```cd instagram-post-clone```
 
 Usage
 To view the project, open the index.html file in your web browser.
