@@ -2,35 +2,36 @@
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/230614440-T-Ephraim/Instagram-post-card-clone-)
 
-Instagram Post Clone
+# Instagram Post Clone
 This project is a simple clone of an Instagram post, created using HTML and CSS. It aims to replicate the look and feel of an Instagram post, including user details, post image, like/comment/share/bookmark buttons, likes count, caption, comments, and add comment section.
 
-Table of Contents
-Demo
-Features
-Technologies Used
-Setup
-Usage
-Contributing
-License
-Contact
-Demo
-You can view a live demo of the project here.
+## Table of Contents
+- Demo
+- Features
+- Technologies Used
+- Setup
+- Usage
+- Contributing
+- License
+- Contact
+- Demo
+- You can view a live demo of the project here.
 
-Features
-User details section with avatar and options icon
-Post image section
-Buttons for like, comment, share, and bookmark
-Likes count display
-Caption with hashtags
-Comments section
-Add comment input field
-Responsive design
-Technologies Used
-HTML5
-CSS3
-Google Fonts
-Setup
+## Features
+- User details section with avatar and options icon
+- Post image section
+- Buttons for like, comment, share, and bookmark
+- Likes count display
+- Caption with hashtags
+- Comments section
+- Add comment input field
+- Responsive design
+- 
+## Technologies Used
+- HTML5
+- CSS3
+- Google Fonts
+## Setup
 To set up this project locally, follow these steps:
 
 Clone the repository:
