@@ -2,6 +2,10 @@
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/230614440-T-Ephraim/Instagram-post-card-clone-)
 
+# Instagram-post-card-clone-
+
+Edit in StackBlitz next generation editor ⚡️
+
 # Instagram Post Clone
 This project is a simple clone of an Instagram post, created using HTML and CSS. It aims to replicate the look and feel of an Instagram post, including user details, post image, like/comment/share/bookmark buttons, likes count, caption, comments, and add comment section.
 
@@ -14,8 +18,9 @@ This project is a simple clone of an Instagram post, created using HTML and CSS.
 - Contributing
 - License
 - Contact
-- Demo
-- You can view a live demo of the project here.
+
+## Demo
+You can view a live demo of the project here.
 
 ## Features
 - User details section with avatar and options icon
@@ -26,44 +31,55 @@ This project is a simple clone of an Instagram post, created using HTML and CSS.
 - Comments section
 - Add comment input field
 - Responsive design
-- 
+
 ## Technologies Used
 - HTML5
 - CSS3
 - Google Fonts
+
 ## Setup
 To set up this project locally, follow these steps:
 
-Clone the repository:
-``` git clone https://github.com/your-username/instagram-post-clone.git ```
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/instagram-post-clone.git
+    ```
 
-Navigate to the project directory:
-```cd instagram-post-clone```
+2. Navigate to the project directory:
+    ```bash
+    cd instagram-post-clone
+    ```
 
-Usage
-To view the project, open the index.html file in your web browser.
+## Usage
+To view the project, open the `index.html` file in your web browser.
 
-Contributing
+## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to create a pull request or open an issue.
 
-Fork the repository.
-Create a new branch:
-git checkout -b feature-branch
+1. Fork the repository.
+2. Create a new branch:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. Make your changes.
+4. Commit your changes:
+    ```bash
+    git commit -m "Add some feature"
+    ```
+5. Push to the branch:
+    ```bash
+    git push origin feature-branch
+    ```
+6. Create a pull request.
 
-Make your changes.
-Commit your changes:
-git commit -m "Add some feature"
-
-Push to the branch:
-git push origin feature-branch
-
-Create a pull request.
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+## Contact
 If you have any questions or feedback, feel free to reach out:
 
-Email: your-email@example.com
-GitHub: your-username
+- **Email**: your-email@example.com
+- **GitHub**: your-username
+
 Feel free to customize this README content to better fit your project and personal details! If you need any further assistance, let me know.
+
