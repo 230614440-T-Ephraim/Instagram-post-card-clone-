@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Instagram Post Card Clone</title>
+    <!-- Link to Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet" />
+    <!-- Link to external CSS file -->
+    <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+    <div class="card">
+        <!-- Top section with user details and options -->
+        <div class="top">
+            <div class="user-details">
+                <div class="avatar">
+                    <img src="images/_f0cb1165-9d92-4702-925b-62170a89331a.jfif" alt="user" class="cover"/>
+                </div>
+                <h3>Flaming Damingo<br /><span> the flaming flamingo</span></h3>
+            </div>
+            <div class="options">
+                <img src="images/options-icon.jfif" alt="options"/>
+            </div>
+        </div>
+        <!-- Post image -->
+        <div class="post-image">
+            <img src="images/_d2f7794c-b625-4f75-8e63-cf1e9fc87df5.jfif" alt="bg" class="cover"/>
+        </div>
+        <!-- Buttons for like, comment, share, and bookmark -->
+        <div class="btns">
+            <div class="left">
+                <img src="images/like-icon.png" alt="like post" class="heart" onclick="likeButton()"/>
+                <img src="images/comment-icon.jfif" alt="comment post"/>
+                <img src="images/share-icon.jfif" alt="share post"/>
+            </div>
+            <div class="right">
+                <img src="images/bookmark-icon.jfif" alt="bookmark post"/>
+            </div>
+        </div>
+        <!-- Likes count, caption, and comments -->
+        <h4 class="likes-count">1,490 likes</h4>
+        <h4 class="caption">
+            <b>Flaming Damingo</b> chilling in the ice. Night at summer😈 <span>#Nightfire</span> <span>#SummerInTheNight</span>
+        </h4>
+        <h4 class="comments">View all 153 comments</h4>
+        <!-- Add comment section -->
+        <div class="add-comments">
+            <div class="userImg">
+                <img src="images/_f0cb1165-9d92-4702-925b-62170a89331a.jfif" alt="user" class="cover"/>
+            </div>
+            <input type="text" class="text" placeholder="Add a comment..."/>
+        </div>
+        <h5 class="post-time">30 minutes ago</h5>
+    </div>
+</body>
+</html>
