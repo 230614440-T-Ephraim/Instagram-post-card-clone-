@@ -74,8 +74,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: your-username
+- **GitHub**: @230614440-T-Ephraim
 
 Feel free to customize this README content to better fit your project and personal details! If you need any further assistance, let me know.
 
